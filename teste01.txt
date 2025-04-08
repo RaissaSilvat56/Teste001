@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Listas de coisas que eu gosto </title>
+</head>
+<body>
+    <h1>Olá, Mundo!</h1>
+    <p>Este é um exemplo de código HTML simples.</p>
+
+    <h2>Lista de coisas que gosto:</h2>
+    <ul>
+        <li>Cachorro</li>
+        <li>Jogar</li>
+        <li>doces</li>
+    </ul>
+
+    <a href="https://www.google.com" target="_blank">Ir para o Google</a>
+</body>
+</html>
