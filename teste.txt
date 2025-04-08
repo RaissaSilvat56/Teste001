@@ -2,19 +2,20 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Meu Primeiro Site</title>
+    <title>Site de tarefas</title>
 </head>
 <body>
-    <h1>Olá, Mundo!</h1>
-    <p>Este é um exemplo de código HTML simples.</p>
+    <h1>Liste suas tarefas!</h1>
+    
 
     <h2>Lista de coisas que gosto:</h2>
     <ul>
-        <li>Programar</li>
-        <li>Jogar</li>
         <li>Estudar</li>
+        <li>Jogar</li>
+        <li>Passear</li>
     </ul>
 
     <a href="https://www.google.com" target="_blank">Ir para o Google</a>
 </body>
+</html>
 </html>
